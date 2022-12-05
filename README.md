@@ -1,4 +1,4 @@
-# ML_NBIDS
+# Machine Learning for Network Intrusion Detection System
 
  * Started on: Oct.07 2022
  * Finished on: Dec. 05 2022
