@@ -16,7 +16,7 @@ The objective of this project is to compare different machine learning algorithm
 
 ## Dataset
 
-This project is based on the KDDcup'99 dataset, a network traffic dataset widely used for research and acedemic purposes.
+This project is based on the [KDDcup'99 dataset](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html), a network traffic dataset widely used for research and acedemic purposes.
 
 ## Algorithms
 
