@@ -10,9 +10,9 @@ The objective of this project is to compare different machine learning algorithm
 
 ## Authors
 
-- [Corentin Goetghebeur](cr453043@dal.ca)
-- [Gabriel Marchand](gb614643@dal.ca)
-- [Rinchen Toh](rn835427@dal.ca)
+- [Corentin Goetghebeur](mailto:cr453043@dal.ca)
+- [Gabriel Marchand](mailto:gb614643@dal.ca)
+- [Rinchen Toh](mailto:rn835427@dal.ca)
 
 ## Dataset
 
@@ -22,15 +22,15 @@ This project is based on the KDDcup'99 dataset, a network traffic dataset widely
 
 For this project, we compared the foolowing algorithms:
 
-- Naive Bayes
-- Logistic Regression
-- Support Vector Machine
-- K-Nearest Neighbors
-- Random Forest
-- Decision Tree
+- [Naive Bayes](Notebooks/ML_IDS_NAIVE_BAYES.ipynb)
+- [Logistic Regression](Notebooks/ML_PROJECT_LOGISTIC_REGRESSION.ipynb)
+- [Support Vector Machine](Notebooks/ML_PROJECT_SVM.ipynb)
+- [K-Nearest Neighbors](Notebooks/ML_PROJECT_KNN.ipynb)
+- [Random Forest](Notebooks/ML_Project_RandomForest.ipynb)
+- [Decision Tree](Notebooks/ML_PROJECT_DecisionTree.ipynb)
 
 ## Report
 
-For more information see the full project report and the powerpoint.
+For more information see the [full project report](Documents/Group%2013%20Project%20Report.pdf) and the [powerpoint presentation](Documents/Project%20Presentation.pdf).
 
 
